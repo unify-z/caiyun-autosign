@@ -1,4 +1,7 @@
 ![caiyun-autosign](https://socialify.git.ci/unify-z/caiyun-autosign/image?description=1&language=1&name=1&owner=1&theme=Auto)
+> [!WARNING]
+> 该项目已停止维护
+
 ## 📖 介绍
 基于 Python 的中国移动云盘（原和彩云）自动签到程序
 
